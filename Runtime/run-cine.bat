@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_251\bin\java.exe"  -Dserver.port=9000 -Dcontroller.sleep-time-in-http-method=2000 -jar  cine7-rest-0.1-SNAPSHOT.jar
